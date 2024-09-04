@@ -74,3 +74,7 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 
+
+*.bin
+
+EMSSimulation/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
